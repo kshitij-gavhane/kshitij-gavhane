@@ -4,16 +4,16 @@
 <p><em>Computer Engineering Student at <a href="https://www.stvincentngp.edu.in/">SVPCET</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: KshitijGAvhane](https://img.shields.io/badge/-kshitij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-gavhane-8a3003191)](https://www.linkedin.com/in/kshitij-gavhane/)
-![GitHub followers](https://img.shields.io/github/followers/kshitij-gavhane?label=Follow&style=social&link=https://github.com/kshitij-gavhane)](https://www.linkedin.com/in/kshitij-gavhane/))
+[![Linkedin: KshitijGAvhane](https://img.shields.io/badge/-kshitij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-gavhane-8a3003191)]
+![GitHub followers](https://github.com/kshitij-gavhane?label=Follow&style=social&link=https://github.com/kshitij-gavhane)]
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)https://github.com/kshitij-gavhane
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const kshitij = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Javascript", "Typescript", "Python", "Java", "HTML/CSS", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
@@ -30,7 +30,6 @@ const anmol = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -63,12 +62,13 @@ Markdown                 1 hr 58 mins        ██░░░░░░░░░�
 YAML                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
 
 🔥 Editors: 
-PyCharm                  8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.55% 
+Visual studio            8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.55% 
 WebStorm                 7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.33% 
 PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
 
 💻 Operating Systems: 
 Windows                  18 hrs 52 mins      █████████████████████████   100.0%
+Mac                      14 hrs 24 mins      ████████████████████░░░░░
 
 ```
 
