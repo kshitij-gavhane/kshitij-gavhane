@@ -4,10 +4,9 @@
 <p><em>Computer Engineering Student at <a href="https://www.stvincentngp.edu.in/">SVPCET</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: KshitijGAvhane](https://img.shields.io/badge/-kshitij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-gavhane/)](https://www.linkedin.com/in/kshitij-gavhane/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![Linkedin: KshitijGAvhane](https://img.shields.io/badge/-kshitij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-gavhane-8a3003191)](https://www.linkedin.com/in/kshitij-gavhane/)
+![GitHub followers](https://img.shields.io/github/followers/kshitij-gavhane?label=Follow&style=social&link=https://github.com/kshitij-gavhane)](https://www.linkedin.com/in/kshitij-gavhane/))
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)https://github.com/kshitij-gavhane
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -75,8 +74,3 @@ Windows                  18 hrs 52 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-
-⭐️ From [@anmol098](https://github.com/anmol098)
