@@ -37,7 +37,7 @@
 
 **About me:**
 
-- Hey there, I am **Raman Preet Singh**, a student of the National Insitute of Technology, Hamirpur, :india: India.
+- Hey there, I am **Kshitij gavhane**, a student of the Nagpur University, Nagpur, :india: India.
 Checkout my website [My Site].
 
 - 😄 *Pronouns:* He / His
@@ -76,10 +76,7 @@ Checkout my website [My Site].
 **Competitive Programming Profile**
 
 <!-- Coursera -->
-[<img align="left" title='Coursera' alt="Kshitij's udemy " width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][udemy]
-
-<!-- HackerRank -->
-[<img align="left" title = "Hackerrank" alt="Kshitij's hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" 
+[<img align="left" title='Coursera' alt="Kshitij's udemy " width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy]
 
 <!-- CodeChef -->
 [<img align="left" title='Codechef' alt="Kshitij's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
