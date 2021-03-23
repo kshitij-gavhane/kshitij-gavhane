@@ -14,9 +14,7 @@
 [<img align="left" title="Github" alt="Kshitij | Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <!-- Linkdin  -->
 [<img align="left" title="Linkedin" alt="Kshitij | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- Twitter -->
-[<img align="left" title="Twitter" alt="Kshitij | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- Instagram -->
+
 [<img align="left" title="Instagram" alt="Kshitij | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
