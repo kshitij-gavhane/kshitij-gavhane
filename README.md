@@ -1,76 +1,229 @@
+## Hello there, fellow \<coders/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Kshitij Gavhane! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Computer Engineering Student at <a href="https://www.stvincentngp.edu.in/">SVPCET</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Linkedin: KshitijGAvhane](https://img.shields.io/badge/-kshitij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-gavhane-8a3003191)]
-![GitHub followers](https://github.com/kshitij-gavhane?label=Follow&style=social&link=https://github.com/kshitij-gavhane)]
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)https://github.com/kshitij-gavhane
+<!-- Visitor badge -->
+[![Visits Badge](https://badges.pufler.dev/visits/kshitij-gavhane/kshitij-gavhane)](https://badges.pufler.dev/visits/kshitij-gavhane/kshitij-gavhane)
+[![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
+[![GitHub followers](https://img.shields.io/github/followers/kshitij-gavhane?label=Followers&style=social)](https://github.com/kshitij-gavhane/?tab=follow) <!-- No. of followers -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+</br>
 
-```javascript
-const kshitij = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "HTML/CSS", "C#"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+**📫 Connect with Me:**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<!-- Github  -->
+[<img align="left" title="Github" alt="Kshitij | Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<!-- Linkdin  -->
+[<img align="left" title="Linkedin" alt="Kshitij | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- Twitter -->
+[<img align="left" title="Twitter" alt="Kshitij | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- Instagram -->
+[<img align="left" title="Instagram" alt="Kshitij | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+<!-- **My Current Spotify Music** -->
+[<img  align="right" width="250px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+<!-- Furry Cat -->
+[<img align="Right" width="250px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />][github]
+
+
+**About me:**
+
+- Hey there, I am **Raman Preet Singh**, a student of the National Insitute of Technology, Hamirpur, :india: India.
+Checkout my website [My Site].
+
+- 😄 *Pronouns:* He / His
+
+- I am a self-taught learner and a team player.
+
+- 💬 Ask me about anything. I would love to help.
+
+- 🌱 I’m currently learning nodejs.
+
+- I currently use [**vscode**](https://code.visualstudio.com/) as my text editore and [**ubuntu**](https://ubuntu.com/) as my workstaton.
 
 ---
+
+**Languages I have used**
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
+![Pug](https://img.shields.io/badge/-Pug-000000?style=flat&logo=pug)
+
+
+**Some of the technologies I have worked with**
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=082D1F)
+![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=84BB3E)
+
+
+**Competitive Programming Profile**
+
+<!-- Coursera -->
+[<img align="left" title='Coursera' alt="Kshitij's udemy " width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][udemy]
+
+<!-- HackerRank -->
+[<img align="left" title = "Hackerrank" alt="Kshitij's hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" 
+
+<!-- CodeChef -->
+[<img align="left" title='Codechef' alt="Kshitij's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+
+</br>
+
+---
+
+<details>
+  <summary>:zap: <b> Recent Github Activity </b></summary>
+
+</br>
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#111](https://github.com//Teamexe/Team.EXE-Website/pull/111) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+2. 💪 Opened PR [#111](https://github.com//Teamexe/Team.EXE-Website/pull/111) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+3. 🎉 Merged PR [#110](https://github.com//Teamexe/Team.EXE-Website/pull/110) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+4. 💪 Opened PR [#110](https://github.com//Teamexe/Team.EXE-Website/pull/110) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+5. 🎉 Merged PR [#109](https://github.com//Teamexe/Team.EXE-Website/pull/109) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+<!--END_SECTION:activity-->
+
+</br>
+
+</details>
+
+<details>
+    <summary> :zap: <b>Github Stats</b> </summary>
+
+</br>
+
+<img align="center" alt="kshitij's Github Stats" src="https://github-readme-stats.kshitij-gavhane.vercel.app/api?username=kshitij-gavhane&&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&show_owner=true" />
+
+<img align="center" alt="kshitij's Top Language" src="https://github-readme-stats.kshitij-gavhane.vercel.app/api/top-langs/?username=kshitij-gavhane&layout=compact&theme=tokyonight" />
+
+</br>
+</br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman08&" alt="Raman Streaks" /></p>
+
+</br>
+
+</details>
+
+
+<details>
+    <summary> :zap: <b>More About Me</b> </summary>
+
+</br>
+
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 195 Contributions in the Year 2021
+ > 
+> 📦 360.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    106 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌆 Daytime    82 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   34.9% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
+🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+🌆 Daytime    73 commits     █████░░░░░░░░░░░░░░░░░░░░   19.73% 
+🌃 Evening    189 commits    ████████████░░░░░░░░░░░░░   51.08% 
+🌙 Night      103 commits    ███████░░░░░░░░░░░░░░░░░░   27.84%
 
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-💬 Languages: 
-JavaScript               5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
-Python                   5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-YAML                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 
-🔥 Editors: 
-Visual studio            8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.55% 
-WebStorm                 7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.33% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
-
-💻 Operating Systems: 
-Windows                  18 hrs 52 mins      █████████████████████████   100.0%
-Mac                      14 hrs 24 mins      ████████████████████░░░░░
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   32.0% 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
+
+```
+
 
 
 <!--END_SECTION:waka-->
+
+</br>
+
+</details>
+
+</br>
+
+<!-- End Point -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+
+<!-- Alisses -->
+[mail]: mailto:gavhanekshitij8@gmail.com
+[instagram]: https://www.instagram.com/shades_of_kshitij/
+[linkedin]: https://www.linkedin.com/in/kshitij-gavhane-8a3003191/
+[github]: https://github.com/kshitij-gavhane
+[hackerrank]: https://www.hackerrank.com/ramanpre0810
+[codechef]: https://www.codechef.com/users/kshitijgavhane
+[udemy]: https://www.udemy.com/user/kshitij-gajanan-gavhane/
+
+[spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
+
+[My Site]: https://kshitij-gavhane.github.io
+
+</br>
+
+
+
+
+<!---
+
+**kshitij-gavhane/kshitij-gavhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
