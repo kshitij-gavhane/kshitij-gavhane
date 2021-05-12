@@ -8,6 +8,14 @@
 
 </br>
 
+<b>🌈Stats:</b><br>
+![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij-gavhane&count_private=true&&show_icons=true&title_color=e4ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=000000)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-gavhane&layout=compact&count_private=true&&show_icons=true&title_color=e4ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=000000)](https://github.com/kshitij-gavhane/github-readme-stats)-->
+
+
+<!--https://github-read080735me-stats.vercel.app/api?username=kshitij-gavhane&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
+
+
 **📫 Connect with Me:**
 
 <!-- Github  -->
@@ -16,11 +24,6 @@
 [<img align="left" title="Linkedin" alt="Kshitij | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" title="Instagram" alt="Kshitij | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
-<!-- **My Current Spotify Music** -->
-[<img  align="right" width="250px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
 
 </br>
 </br>
@@ -59,7 +62,9 @@ Checkout my website [My Site].
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
-![Pug](https://img.shields.io/badge/-Pug-000000?style=flat&logo=pug)
+![Pug](https://img.shields.io/badge/-Pug-000000?style=flat&logo=pug)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-gavhane&layout=compact&count_private=true&&show_icons=true&title_color=e4ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=000000)](https://github.com/kshitij-gavhane/github-readme-stats)
+
 
 
 **Some of the technologies I have worked with**
