@@ -2,7 +2,7 @@
 
 
 <!-- Visitor badge -->
-![](https://komarev.com/ghpvc/?username=kshitij-gavhane&color=ff69b4&&label=VIEWS&&value=1000)
+![](https://komarev.com/ghpvc/?username=anuraghazra&color=ff69b4&&label=VIEWS)
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
 [![GitHub followers](https://img.shields.io/github/followers/kshitij-gavhane?label=Followers&style=social)](https://github.com/kshitij-gavhane/?tab=follow) <!-- No. of followers -->
 
