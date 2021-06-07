@@ -86,21 +86,13 @@ Checkout my website [My Site].
 
 </br>
 
+![COMMIT's Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshitij-gavhane&theme=nord_dark) 
 ---
 
 
 </br>
 
-<img align="center" alt="kshitij's Github Stats" src="https://github-readme-stats.kshitij-gavhane.vercel.app/api?username=kshitij-gavhane&&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&show_owner=true" />
 
-<img align="center" alt="kshitij's Top Language" src="https://github-readme-stats.kshitij-gavhane.vercel.app/api/top-langs/?username=kshitij-gavhane&layout=compact&theme=tokyonight" />
-
-</br>
-</br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-gavhane8&" alt="Raman Streaks" /></p>
-
-</br>
 
 </details>
 
