@@ -2,7 +2,8 @@
 
 
 <!-- Visitor badge -->
-<a><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=7gzlkaywe6rn3wrpnd7ezw42etj7qkpm" border="5"></a>
+<!-- <a><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=7gzlkaywe6rn3wrpnd7ezw42etj7qkpm" border="5"></a> -->
+<a href="https://www.freecounterstat.com" ><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=7gzlkaywe6rn3wrpnd7ezw42etj7qkpm" border="0" ></a>
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
 [![GitHub followers](https://img.shields.io/github/followers/kshitij-gavhane?label=Followers&style=social)](https://github.com/kshitij-gavhane/?tab=follow) <!-- No. of followers -->
 
