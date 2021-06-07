@@ -88,25 +88,6 @@ Checkout my website [My Site].
 
 ---
 
-<details>
-  <summary>:zap: <b> Recent Github Activity </b></summary>
-
-</br>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com//Teamexe/Team.EXE-Website/pull/111) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-2. 💪 Opened PR [#111](https://github.com//Teamexe/Team.EXE-Website/pull/111) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-3. 🎉 Merged PR [#110](https://github.com//Teamexe/Team.EXE-Website/pull/110) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-4. 💪 Opened PR [#110](https://github.com//Teamexe/Team.EXE-Website/pull/110) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-5. 🎉 Merged PR [#109](https://github.com//Teamexe/Team.EXE-Website/pull/109) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-<!--END_SECTION:activity-->
-
-</br>
-
-</details>
-
-<details>
-    <summary> :zap: <b>Github Stats</b> </summary>
 
 </br>
 
@@ -117,78 +98,13 @@ Checkout my website [My Site].
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman08&" alt="Raman Streaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-gavhane8&" alt="Raman Streaks" /></p>
 
 </br>
 
 </details>
 
 
-<details>
-    <summary> :zap: <b>More About Me</b> </summary>
-
-</br>
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 195 Contributions in the Year 2021
- > 
-> 📦 360.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-🌆 Daytime    73 commits     █████░░░░░░░░░░░░░░░░░░░░   19.73% 
-🌃 Evening    189 commits    ████████████░░░░░░░░░░░░░   51.08% 
-🌙 Night      103 commits    ███████░░░░░░░░░░░░░░░░░░   27.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   32.0% 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</br>
-
-</details>
-
-</br>
 
 <!-- End Point -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
