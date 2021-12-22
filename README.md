@@ -3,7 +3,7 @@
 
 <!-- Visitor badge -->
 <!-- <a><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=7gzlkaywe6rn3wrpnd7ezw42etj7qkpm" border="5"></a> -->
-<img src="https://hitwebcounter.com/counter/counter.php?page=7914752&style=0001&nbdigits=5&type=page&initCount=689"  Alt="web counter"   border="0" /></a>               
+[!]<img src="https://hitwebcounter.com/counter/counter.php?page=7914752&style=0001&nbdigits=5&type=page&initCount=689"  Alt="web counter"   border="0" /></a>               
 <!-- ![](https://komarev.com/ghpvc/?username=kshitij-gavhane&style=plastic&initCount=689) -->
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
 [![GitHub followers](https://img.shields.io/github/followers/kshitij-gavhane?label=Followers&style=social)](https://github.com/kshitij-gavhane/?tab=follow) <!-- No. of followers -->
