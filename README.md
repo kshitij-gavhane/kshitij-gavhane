@@ -17,6 +17,8 @@
 
 <!--https://github-read080735me-stats.vercel.app/api?username=kshitij-gavhane&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
 
+![snake gif](https://github.com/kshitij-gavhane/kshitij-gavhane/blob/output/github-contribution-grid-snake.gif)
+
 
 **📫 Connect with Me:**
 
