@@ -1,139 +1,31 @@
-## Hello there, fellow \<coders/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Kshitij</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitij-gavhane" alt="kshitij-gavhane" /></a> </p>
 
-<!-- Visitor badge -->
-<!-- <a><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=7gzlkaywe6rn3wrpnd7ezw42etj7qkpm" border="5"></a> -->
-<!-- [!]<img src="https://hitwebcounter.com/counter/counter.php?page=7914752&style=0001&nbdigits=5&type=page&initCount=689"  Alt="web counter"   border="0" /></a>                -->
-![](https://komarev.com/ghpvc/?username=kshitij-gavhane&style=plastic&initCount=689)
-[![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
-[![GitHub followers](https://img.shields.io/github/followers/kshitij-gavhane?label=Followers&style=social)](https://github.com/kshitij-gavhane/?tab=follow) <!-- No. of followers -->
+- 🔭 I’m currently working on [Hutouch](https://play.google.com/store/apps/details?id=hutouch.niiti&hl=en&gl=US&pli=1)
 
-</br>
+- 👯 I’m looking to collaborate on **CarVoy**
 
-<b>🌈Stats:</b><br>
-![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij-gavhane&count_private=true&&show_icons=true&title_color=e4ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=000000)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-gavhane&layout=compact&count_private=true&&show_icons=true&title_color=e4ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=000000)](https://github.com/kshitij-gavhane/github-readme-stats)-->
+- 👨‍💻 All of my projects are available at [https://github.com/kshitij-gavhane?tab=repositories](https://github.com/kshitij-gavhane?tab=repositories)
 
+- 💬 Ask me about **Flutter, NodeJS, Laravel**
 
-<!--https://github-read080735me-stats.vercel.app/api?username=kshitij-gavhane&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
+- 📫 How to reach me **gavhanekshitij8@gmail.com**
 
-![snake gif](https://github.com/kshitij-gavhane/kshitij-gavhane/blob/output/github-contribution-grid-snake.gif)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/kshitijgavhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kshitijgavhane" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kshitij-gavhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij-gavhane" height="30" width="40" /></a>
+<a href="https://instagram.com/_kshitij.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kshitij.g" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kshitijgavhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kshitijgavhane" height="30" width="40" /></a>
+</p>
 
-**📫 Connect with Me:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<!-- Github  -->
-[<img align="left" title="Github" alt="Kshitij | Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-<!-- Linkdin  -->
-[<img align="left" title="Linkedin" alt="Kshitij | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" title="Instagram" alt="Kshitij | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-<!-- Furry Cat -->
-[<img align="Right" width="250px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />][github]
-
-
-**About me:**
-
-- Hey there, I am **Kshitij gavhane**, a student of the Nagpur University, Nagpur, :india: India.
-Checkout my website [My Site].
-
-- 😄 *Pronouns:* He / His
-
-- I am a self-taught learner and a team player.
-
-- 💬 Ask me about anything. I would love to help.
-
-- 🌱 I’m currently learning nodejs.
-
-- I currently use [**vscode**](https://code.visualstudio.com/) as my text editore and [**ubuntu**](https://ubuntu.com/) as my workstaton.
-
----
-
-**Languages I have used**
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
-![Pug](https://img.shields.io/badge/-Pug-000000?style=flat&logo=pug)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-gavhane&layout=compact&count_private=true&&show_icons=true&title_color=e4ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=000000)](https://github.com/kshitij-gavhane/github-readme-stats)
-
-
-
-**Some of the technologies I have worked with**
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=082D1F)
-![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=84BB3E)
-
-
-**Competitive Programming Profile**
-
-<!-- Coursera -->
-[<img align="left" title='Coursera' alt="Kshitij's udemy " width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy]
-
-<!-- CodeChef -->
-[<img align="left" title='Codechef' alt="Kshitij's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-
-</br>
-
-![COMMIT's Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshitij-gavhane&theme=nord_dark) 
----
-
-
-</br>
-
-
-
-</details>
-
-
-
-<!-- End Point -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
-
-<!-- Alisses -->
-[mail]: mailto:gavhanekshitij8@gmail.com
-[instagram]: https://www.instagram.com/shades_of_kshitij/
-[linkedin]: https://www.linkedin.com/in/kshitij-gavhane-8a3003191/
-[github]: https://github.com/kshitij-gavhane
-[hackerrank]: https://www.hackerrank.com/ramanpre0810
-[codechef]: https://www.codechef.com/users/kshitijgavhane
-[udemy]: https://www.udemy.com/user/kshitij-gajanan-gavhane/
-
-[spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
-
-[My Site]: https://kshitij-gavhane.github.io
-
-</br>
-
-
-<!---
-
-**kshitij-gavhane/kshitij-gavhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-gavhane&show_icons=true&locale=en&layout=compact" alt="kshitij-gavhane" /></p>
